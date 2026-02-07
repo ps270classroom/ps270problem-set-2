@@ -11,7 +11,7 @@ options(width = 100)
 
 ## Background
 
-NOTE: When submitting the pdf to autograder, make sure you assign pages to the relevant questions. **Rubric**: 1pt
+NOTE: When submitting the pdf on gradescope, make sure you assign pages to the relevant questions. **Rubric**: 1pt
 
 Political advertising has traditionally been focused on the medium of television, but in recent cycles, online advertising has become much more popular. In this problem set, you will explore a dataset that has information on Facebook ad spending and impressions by candidates in the 2018 election cycle in the United States. The variables in this data are described below. 
 
